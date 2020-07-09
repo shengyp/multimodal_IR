@@ -19,7 +19,10 @@ Table of Contents
 
 
 ## Multi-modal_Information_Extraction_from_Text
-1. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
+1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
+
+
+2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
 
 
 ## Multi-modal_KG_Construction

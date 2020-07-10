@@ -37,3 +37,4 @@ Table of Contents
 1. Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web. [[ACL 2020]](./tutorials/Multi-modal_Information_Extraction_from_Text.pdf)
 
 
+2. Manning、 Ostendorf、 Povey、 何晓冬、 周明共话多模态NLP的机遇和挑战（附视频）. [[2020 北京智源大会  圆桌论坛 AI新疆域：多模态自然语言处理前沿趋势]](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488568&idx=1&sn=d9351b098be46f7bb69d18c6f59ac8a1&chksm=febf57fcc9c8deea89561f083767bd19baa649b2fbade7ab44ec8796a486d08788ce651aec35&mpshare=1&scene=1&srcid=07103OOC4gkqoQKgzyYFtWGN&sharer_sharetime=1594386259878&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=b208b7ed0c58a19a9cdc2102a56d53caafab1f92eadca0b95197fda2b01425f0d321d6a7e2fa2fec28d910492ff301dd02853658fa611b4d3a4ba5c65896190e09908aed394c61812ba0133d2ec5613b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Adrm2w%2Fw1A3b0l%2Fg6a0g8eI%3D&pass_ticket=AmiZkESIKgJonY79YuRUaupucWvcklXJKVlGtFfjWtQE2bzHF%2BMV47H%2BkilE%2Fq80)

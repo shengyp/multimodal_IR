@@ -11,6 +11,7 @@ Table of Contents
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
+  * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
   * [Tutorials](#Tutorials)
 
@@ -23,6 +24,10 @@ Table of Contents
 
 
 2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
+
+
+## Multi-modal_Representation_Learning
+1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 
 
 ## Multi-modal_KG_Construction

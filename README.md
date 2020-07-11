@@ -1,8 +1,8 @@
-# KG_Construction
+# Multi-modal_Information_Extraction
 
 
 
-Here, we are concentrate on collection of research papers relate to software engineering.   
+Here, we are concentrate on collection of research papers relate to information extraction for multi-modal data.   
 
 
 Table of Contents
@@ -27,6 +27,9 @@ Table of Contents
 
 
 2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
+
+
+3. Manling Li, Ying Lin, Ananya Subburathinam, et al. [GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf). TACL 2019. [[Paper]](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf)
 
 
 ## Multi-modal_Representation_Learning

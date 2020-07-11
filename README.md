@@ -10,6 +10,7 @@ Table of Contents
 
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
+  * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
@@ -17,6 +18,8 @@ Table of Contents
 
 
 <!-- ## Datasets_Shared_Tasks -->
+## Review_on_Multi-modal_Data_Analytics
+1. Yang Wang. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/pdf/2006.08159.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08159.pdf) 
 
 
 ## Multi-modal_Information_Extraction_from_Text

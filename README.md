@@ -28,12 +28,6 @@ Table of Contents
 [少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
 
 
-[知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)
-
-
-[知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
-
-
 
 ## Multi-modal_Information_Extraction_from_Text
 1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
@@ -61,12 +55,18 @@ Table of Contents
 5. Pouya Pezeshkpour, Liyan Chen, Sameer Singh. [Embedding Multimodal Relational Data](https://www.akbc.ws/2017/papers/26_paper.pdf). NIPS 2017. [[Paper]](https://www.akbc.ws/2017/papers/26_paper.pdf). 
 
 
+[知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
+
+
 
 ## Multi-modal_KG_Construction
 1. Hongzhi Li, Joe Ellis, Heng Ji, Shih-Fu Chang. [Event Specific Multimodal Pattern Mining for Knowledge Base Construction](https://blender.cs.illinois.edu/paper/acmmm2016.pdf). CSME 2018. [[Paper]](https://blender.cs.illinois.edu/paper/acmmm2016.pdf)
 
 
 2. Meng Wang, Guilin Qi, Haofen Wang, Qiushuo Zheng. [Richpedia: A Comprehensive Multi-modal Knowledge Graph](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf)
+
+
+[知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)
 
 
 

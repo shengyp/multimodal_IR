@@ -25,6 +25,16 @@ Table of Contents
 [Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)
 
 
+[少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
+
+
+[知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)
+
+
+[知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
+
+
+
 ## Multi-modal_Information_Extraction_from_Text
 1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
 

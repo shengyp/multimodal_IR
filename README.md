@@ -22,12 +22,6 @@ Table of Contents
 1. Yang Wang. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/pdf/2006.08159.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08159.pdf) 
 
 
-[Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)
-
-
-[少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
-
-
 
 ## Multi-modal_Information_Extraction_from_Text
 1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
@@ -37,6 +31,13 @@ Table of Contents
 
 
 3. Manling Li, Ying Lin, Ananya Subburathinam, et al. [GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf). TACL 2019. [[Paper]](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf)
+
+
+[Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)
+
+
+[少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
+
 
 
 ## Multi-modal_Representation_Learning

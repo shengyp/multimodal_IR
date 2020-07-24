@@ -49,7 +49,7 @@ Table of Contents
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 
 
-2. Pouya Pezeshkpour, Liyan Chen, Sameer Singh. [Embedding Multimodal Relational Data for Knowledge Base Completion](https://arxiv.org/pdf/1809.01341.pdf). EMNLP 2018. [[Paper]](https://arxiv.org/pdf/1809.01341.pdf). [[Comprehension]](https://blog.csdn.net/dreamweaverccc/article/details/88365241)
+2. Pouya Pezeshkpour, Liyan Chen, Sameer Singh. [Embedding Multimodal Relational Data for Knowledge Base Completion](https://arxiv.org/pdf/1809.01341.pdf). EMNLP 2018. [[Paper]](https://arxiv.org/pdf/1809.01341.pdf) [[Comprehension]](https://blog.csdn.net/dreamweaverccc/article/details/88365241). 
 
 
 3. Hatem Mousselly-Sergieh, Teresa Botschen, Iryna Gurevych, Stefan Roth. [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://www.aclweb.org/anthology/S18-2027.pdf). \*SEM 2018. [[Paper]](https://www.aclweb.org/anthology/S18-2027.pdf). 

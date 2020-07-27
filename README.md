@@ -74,7 +74,7 @@ Table of Contents
 
 
 
-[多模态知识图谱](https://zhuanlan.zhihu.com/p/163278672?utm_source=wechat_session&utm_medium=social&s_r=1&from=timeline&s_s_i=HwXWYrkvPkQYdtrHVFtqdFjqJ56tpD0iQtyjgfVpiW8%3D)
+[多模态知识图谱](https://zhuanlan.zhihu.com/p/163278672?utm_source=wechat_session&utm_medium=social&s_r=1&from=timeline&s_s_i=HwXWYrkvPkQYdtrHVFtqdFjqJ56tpD0iQtyjgfVpiW8%3D) (来自知乎, 漆桂林教授, 东南大学)
 
 
 [知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)

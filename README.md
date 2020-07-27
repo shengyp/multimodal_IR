@@ -24,10 +24,10 @@ Table of Contents
 
 
 ## Multi-modal_Information_Extraction_from_Text
-1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
+1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, and Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
 
 
-2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
+2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, and Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
 
 
 3. Manling Li, Ying Lin, Ananya Subburathinam, et al. [GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf). TACL 2019. [[Paper]](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf)
@@ -41,19 +41,19 @@ Table of Contents
 
 
 ## Multi-modal_Representation_Learning
-1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
+1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, and Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 
 
-2. Pouya Pezeshkpour, Liyan Chen, Sameer Singh. [Embedding Multimodal Relational Data for Knowledge Base Completion](https://arxiv.org/pdf/1809.01341.pdf). EMNLP 2018. [[Paper]](https://arxiv.org/pdf/1809.01341.pdf) [[Comprehension]](https://blog.csdn.net/dreamweaverccc/article/details/88365241). 
+2. Pouya Pezeshkpour, Liyan Chen, and Sameer Singh. [Embedding Multimodal Relational Data for Knowledge Base Completion](https://arxiv.org/pdf/1809.01341.pdf). EMNLP 2018. [[Paper]](https://arxiv.org/pdf/1809.01341.pdf) [[Comprehension]](https://blog.csdn.net/dreamweaverccc/article/details/88365241). 
 
 
-3. Hatem Mousselly-Sergieh, Teresa Botschen, Iryna Gurevych, Stefan Roth. [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://www.aclweb.org/anthology/S18-2027.pdf). \*SEM 2018. [[Paper]](https://www.aclweb.org/anthology/S18-2027.pdf). 
+3. Hatem Mousselly-Sergieh, Teresa Botschen, Iryna Gurevych, and Stefan Roth. [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://www.aclweb.org/anthology/S18-2027.pdf). \*SEM 2018. [[Paper]](https://www.aclweb.org/anthology/S18-2027.pdf). 
 
 
 4. Ruobing Xie, Zhiyuan Liu, Huanbo Luan, Maosong Sun. [Image-embodied Knowledge Representation Learning](https://arxiv.org/pdf/1609.07028v1.pdf). IJCAI 2017. [[Paper]](https://arxiv.org/pdf/1609.07028v1.pdf). 
 
 
-5. Pouya Pezeshkpour, Liyan Chen, Sameer Singh. [Embedding Multimodal Relational Data](https://www.akbc.ws/2017/papers/26_paper.pdf). NIPS 2017. [[Paper]](https://www.akbc.ws/2017/papers/26_paper.pdf). 
+5. Pouya Pezeshkpour, Liyan Chen, and Sameer Singh. [Embedding Multimodal Relational Data](https://www.akbc.ws/2017/papers/26_paper.pdf). NIPS 2017. [[Paper]](https://www.akbc.ws/2017/papers/26_paper.pdf). 
 
 
 [知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
@@ -61,10 +61,20 @@ Table of Contents
 
 
 ## Multi-modal_KG_Construction
-1. Hongzhi Li, Joe Ellis, Heng Ji, Shih-Fu Chang. [Event Specific Multimodal Pattern Mining for Knowledge Base Construction](https://blender.cs.illinois.edu/paper/acmmm2016.pdf). CSME 2018. [[Paper]](https://blender.cs.illinois.edu/paper/acmmm2016.pdf)
+1. Meng Wang, Guilin Qi, Haofen Wang, and Qiushuo Zheng. [Richpedia: A Comprehensive Multi-modal Knowledge Graph](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf)
 
 
-2. Meng Wang, Guilin Qi, Haofen Wang, Qiushuo Zheng. [Richpedia: A Comprehensive Multi-modal Knowledge Graph](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf)
+2. Ye Liu, Hui Li, Alberto Garcia-Duran, Mathias Niepert, Daniel Onoro-Rubio, and David S. Rosenblum. [MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/pdf/1903.05485.pdf). ESWC 2019. [[Paper]](https://arxiv.org/pdf/1903.05485.pdf)
+
+
+3. Hongzhi Li, Joe Ellis, Heng Ji, and Shih-Fu Chang. [Event Specific Multimodal Pattern Mining for Knowledge Base Construction](https://blender.cs.illinois.edu/paper/acmmm2016.pdf). CSME 2018. [[Paper]](https://blender.cs.illinois.edu/paper/acmmm2016.pdf)
+
+
+4. Sebasti´an Ferrada, Benjamin Bustos, and Aidan Hogan. [IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68204-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68204-4_8.pdf)
+
+
+
+[多模态知识图谱](https://zhuanlan.zhihu.com/p/163278672?utm_source=wechat_session&utm_medium=social&s_r=1&from=timeline&s_s_i=HwXWYrkvPkQYdtrHVFtqdFjqJ56tpD0iQtyjgfVpiW8%3D)
 
 
 [知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)

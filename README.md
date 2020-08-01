@@ -22,6 +22,8 @@ Table of Contents
 1. Yang Wang. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/pdf/2006.08159.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08159.pdf) 
 
 
+2. Aditya Mogadala, Marimuthu Kalimuthu, and Dietrich Klakow. [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.09358.pdf) 
+
 
 ## Multi-modal_Information_Extraction_from_Text
 1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, and Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)

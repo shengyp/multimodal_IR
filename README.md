@@ -14,6 +14,8 @@ Table of Contents
   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
+  * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
+  * [Text Generation based upon Scene Graph](#Text_Generation_based_upon_Scene_Graph)
   * [Tutorials](#Tutorials)
 
 
@@ -85,6 +87,13 @@ Table of Contents
 
 
 [同济大学王昊奋：知识图谱在多模态大数据时代的创新和实践 | 世界人工智能大会达观数据论坛](https://mp.weixin.qq.com/s/HNwWVXY1-iP21IdwK7wndg) (来自达观数据, 王昊奋, 同济大学)
+
+
+## Joint_Understanding_for_Text_and_Image
+  
+
+## Text_Generation_based_upon_Scene_Graph
+
 
 
 

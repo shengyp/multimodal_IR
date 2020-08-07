@@ -46,6 +46,10 @@ Table of Contents
 [ACL 2020信息抽取方向论文打卡列表（附论文下载）](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247495324&idx=2&sn=2c840cbdea3771a8ac118a2072871260&chksm=970fc64aa0784f5c9ee1a12c8e5953bb6fe933b0d01ecd5657555f34f6c3b935052d9bc25a02&mpshare=1&scene=1&srcid=0729Xp6FTJfyuM0a5zqm9DoT&sharer_sharetime=1596017808524&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6ccefb278505958c798ed9ec41215fea92de364e27bdf16fd2ffec59c8a108408ca9a9720b68311bf59d913d3509e2a2cedff36987659030e3396c589bc6b7c349621e84b81a6d0e7&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Aa7crhvieAFu6IiEcBk04cQ%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
 
 
+[2020年关系抽取相关论文](https://zhuanlan.zhihu.com/p/154492342?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632)
+
+
+
 ## Multi-modal_Representation_Learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, and Huan Gao. [Fine-grained Image Classification by Visual-Semantic Embedding](https://www.ijcai.org/Proceedings/2018/0145.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 

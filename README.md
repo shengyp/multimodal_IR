@@ -16,6 +16,7 @@ Table of Contents
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
   * [Text Generation based upon Scene Graph](#Text_Generation_based_upon_Scene_Graph)
+  * [Multi-modal Knowledge Graphs for Recommender Systems](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
   * [Tutorials](#Tutorials)
 
 
@@ -99,6 +100,9 @@ Table of Contents
 ## Text_Generation_based_upon_Scene_Graph
 
 
+
+## Multi-modal_Knowledge_Graphs_for_Recommender_Systems
+1. Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang, and Kai Zheng. [Multi-modal Knowledge Graphs for Recommender Systems](https://zheng-kai.com/paper/cikm_2020_sun.pdf). CIKM 2020. [[Paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
 
 
 ## Tutorials

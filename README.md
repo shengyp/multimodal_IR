@@ -69,6 +69,7 @@ Table of Contents
 
 [知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
 
+[KDD2020 Tutorial: Multi-modal Network Representation Learning](https://chuxuzhang.github.io/KDD20_Tutorial.html)
 
 
 ## Multi-modal_KG_Construction

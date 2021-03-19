@@ -88,7 +88,7 @@ Table of Contents
 
 [多模态知识图谱](https://zhuanlan.zhihu.com/p/163278672?utm_source=wechat_session&utm_medium=social&s_r=1&from=timeline&s_s_i=HwXWYrkvPkQYdtrHVFtqdFjqJ56tpD0iQtyjgfVpiW8%3D) (来自知乎, 漆桂林教授, 东南大学)
 
-[Multimodal Knowledge Graphs: Construction, Inference, and Challenges](http://tcci.ccf.org.cn/conference/2020/dldoc/tutorial_5_2.pdf) (NLPCC 2020)
+[Multimodal Knowledge Graphs: Construction, Inference, and Challenges](http://tcci.ccf.org.cn/conference/2020/dldoc/tutorial_5_2.pdf) (NLPCC 2020) | [多模态知识图谱构建和推理技术](https://hub-cache.baai.ac.cn/hub-pdf/20201111/Tutorial%204%20%E5%A4%9A%E6%A8%A1%E6%80%81%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA%E5%92%8C%E6%8E%A8%E7%90%86%E6%8A%80%E6%9C%AF.pdf)
 
 
 [知识图谱平台化助力知识图谱行业大发展](https://zhuanlan.zhihu.com/p/159147179)

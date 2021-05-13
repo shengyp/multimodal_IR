@@ -97,6 +97,9 @@ Table of Contents
 [同济大学王昊奋：知识图谱在多模态大数据时代的创新和实践 | 世界人工智能大会达观数据论坛](https://mp.weixin.qq.com/s/HNwWVXY1-iP21IdwK7wndg) (来自达观数据, 王昊奋, 同济大学)
 
 
+[【积微成著】专题分享——多模态知识图谱构建、推理和挑战](https://mp.weixin.qq.com/s/RQwHntpa4-Y7W_cXylYAOw) (来自PlantData知识图谱实战
+
+
 ## Joint_Understanding_for_Text_and_Image
   
 

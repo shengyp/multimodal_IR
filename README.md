@@ -28,6 +28,11 @@ Table of Contents
 2. Aditya Mogadala, Marimuthu Kalimuthu, and Dietrich Klakow. [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.09358.pdf) 
 
 
+3. Daheng Wang, Tong Zhao, Wenhao Yu, Nitesh V. Chawla, and Meng Jiang. **Deep Multimodal Complementarity Learning**. TNNLS 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9758834) 
+
+
+
+
 ## Multi-modal_Information_Extraction_from_Text
 1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, and Marjorie Freedman. [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
 

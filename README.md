@@ -13,6 +13,7 @@ Table of Contents
   * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
+  * [Multi-modal Entity Linking](#Multi-modal_Entity_Linking)
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
   * [Multi-modal Knowledge Graphs for Recommender Systems](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
@@ -40,6 +41,13 @@ Table of Contents
 
 
 3. Manling Li, Ying Lin, Ananya Subburathinam, et al. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**. TACL 2019. [[Paper]](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf)
+
+
+4. Tong Xu, Peilun Zhou, and Enhong Chen, Uncertainty in Multimodal Semantic Understanding. **Uncertainty in Multimodal Semantic Understanding**. In Communication of China Association of Artificial Intelligence (in Chinese) 2020. [[Paper]](http://staff.ustc.edu.cn/~tongxu/Papers/CCAAI20.pdf)
+
+
+5. Tong Xu*, Peilun Zhou*, Linkang Hu, Xiangnan He, Yao Hu, and Enhong Chen. **Socializing the Videos: A Multimodal Approach for Social Relation Recognition**, In ACM Transactions on Multimedia Computing Communications and Applications 2021.  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3416493)
+
 
 
 [Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)
@@ -71,9 +79,22 @@ Table of Contents
 5. Pouya Pezeshkpour, Liyan Chen, and Sameer Singh. **Embedding Multimodal Relational Data**. NIPS 2017. [[Paper]](https://www.akbc.ws/2017/papers/26_paper.pdf). 
 
 
+6. Derong Xu, Tong Xu*, Shiwei Wu, Jingbo Zhou, and Enhong Chen. **Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion**. ACM MM 2022. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548388). 
+
+
+
 [知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
 
 [KDD2020 Tutorial: Multi-modal Network Representation Learning](https://chuxuzhang.github.io/KDD20_Tutorial.html)
+
+
+
+## Multi-modal_Entity_Linking
+1. Pengfei Luo, Tong Xu*, Shiwei Wu, Chen Zhu, Linli Xu, and Enhong Chen. **Multi-Grained Multimodal Interaction Network for Entity Linking**. KDD 2023. [[Paper]](https://arxiv.org/abs/2307.09721)
+
+
+[多模态实体链接（Multimodal Entity Linking）论文整理（更新至2023.6.27）](https://zhuanlan.zhihu.com/p/466395379)
+
 
 
 ## Multi-modal_KG_Construction
@@ -89,6 +110,9 @@ Table of Contents
 4. Sebasti´an Ferrada, Benjamin Bustos, and Aidan Hogan. **IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images**. ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68204-4_8.pdf)
 
 
+5. Sebasti´an Ferrada, Benjamin Bustos, and Aidan Hogan. **Multimodal Biological Knowledge Graph Completion via Triple Co-attention Mechanism**. ICDE 2023. [[Paper]]()
+
+
 
 [多模态知识图谱](https://zhuanlan.zhihu.com/p/163278672?utm_source=wechat_session&utm_medium=social&s_r=1&from=timeline&s_s_i=HwXWYrkvPkQYdtrHVFtqdFjqJ56tpD0iQtyjgfVpiW8%3D) (来自知乎, 漆桂林教授, 东南大学)
 
@@ -101,7 +125,11 @@ Table of Contents
 [同济大学王昊奋：知识图谱在多模态大数据时代的创新和实践 | 世界人工智能大会达观数据论坛](https://mp.weixin.qq.com/s/HNwWVXY1-iP21IdwK7wndg) (来自达观数据, 王昊奋, 同济大学)
 
 
-[【积微成著】专题分享——多模态知识图谱构建、推理和挑战](https://mp.weixin.qq.com/s/RQwHntpa4-Y7W_cXylYAOw) (来自PlantData知识图谱实战
+[【积微成著】专题分享——多模态知识图谱构建、推理和挑战](https://mp.weixin.qq.com/s/RQwHntpa4-Y7W_cXylYAOw) (来自PlantData知识图谱实战)
+
+
+[Multi-modal Knowledge Graph](https://github.com/pengfei-luo/multimodal-knowledge-graph#multimodal-knowledge-graph-completion) (来自Github)
+
 
 
 ## Joint_Understanding_for_Text_and_Image
@@ -111,6 +139,10 @@ Table of Contents
 
 ## Multi-modal_Knowledge_Graphs_for_Recommender_Systems
 1. Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang, and Kai Zheng. **Multi-modal Knowledge Graphs for Recommender Systems**. CIKM 2020. [[Paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
+
+
+2. Chuhan Wu, Fangzhao Wu, Tao Qi, Chao Zhang, Yongfeng Huang, and Tong Xu. **MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation**. SIGIR 2022. [[Paper]](https://arxiv.org/abs/2104.07407)
+
 
 
 ## Tutorials

@@ -199,7 +199,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multimodal_Knowledge_Graphs_for_Recommender_Systems
+## multi-modal_knowledge_graphs_for_recommender_systems
 1. Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang, and Kai Zheng. **Multi-modal Knowledge Graphs for Recommender Systems**. CIKM 2020. [[Paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
 
 

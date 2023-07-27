@@ -39,6 +39,9 @@ Table of Contents
 1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
 
 
+2. Guozheng Li, Peng Wang, Jiafeng Xie, et al. **FEED：A Chinese Financial Event Extraction Dataset Constructed by Distant Supervisions**[C]. IJCKG 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3502223.3502229) 
+
+
 
 
 ## Multimodal_Relation_Extraction
@@ -115,6 +118,10 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 6. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
+
+
+7. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
+
 
 
 

@@ -18,8 +18,8 @@ Table of Contents
   * [Multimodal Entity Linking](#Multimodal_Entity_Linking)
   * [Multimodal KG Construction](#Multimodal_KG_Construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
-  * [Multi-modal Knowledge Graphs for Recommender Systems](#Multimodal_Knowledge_Graphs_for_Recommender_Systems)
-  * [Tutorials](#Tutorials)
+  * [Multi-modal Knowledge Graphs for Recommender Systems](#multimodal_knowledge_graphs_for_recommender_systems)
+  * [Tutorials](#tutorials)
 
 
 <!-- ## Datasets_Shared_Tasks -->

@@ -10,20 +10,20 @@ Table of Contents
 
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
-  * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
-  * [Multimodal Dataset](#Multimodal_Dataset)
-  * [Multimodal Relation Extraction](#Multimodal_Relation_Extraction)
-  * [Multimodal Event Extraction](#Multimodal_Event_Extraction)  
-  * [Multimodal Representation Learning](#Multimodal_Representation_Learning)
-  * [Multimodal Entity Linking](#Multimodal_Entity_Linking)
-  * [Multimodal KG Construction](#Multimodal_KG_Construction)
+  * [Review on Multi-modal Data Analytics](#Review_on_multi-modal_data_analytics)
+  * [Multimodal Dataset](#multi-modal_dataset)
+  * [Multimodal Relation Extraction](#multi-modal_relation_extraction)
+  * [Multimodal Event Extraction](#multi-modal_event_extraction)  
+  * [Multimodal Representation Learning](#multi-modal_representation_learning)
+  * [Multimodal Entity Linking](#multi-modal_entity_linking)
+  * [Multimodal KG Construction](#multi-modal_kG_construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
-  * [Multi-modal Knowledge Graphs for Recommender Systems](#multimodal_knowledge_graphs_for_recommender_systems)
+  * [Multi-modal Knowledge Graphs for Recommender Systems](#multi-modal_knowledge_graphs_for_recommender_systems)
   * [Tutorials](#tutorials)
 
 
 <!-- ## Datasets_Shared_Tasks -->
-## Review_on_Multi-modal_Data_Analytics
+## Review_on_multi-modal_data_analytics
 1. Yang Wang. **Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion**. Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08159.pdf) 
 
 
@@ -35,7 +35,7 @@ Table of Contents
 
 
 
-## Multimodal_Dataset
+## multi-modal_dataset
 1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
 
 
@@ -44,7 +44,7 @@ Table of Contents
 
 
 
-## Multimodal_Relation_Extraction
+## multi-modal_relation_extraction
 1. Liu X, Gao F, Zhang Q, et al. **Graph convolution for multimodal information extraction from visually rich documents**[J]. arXiv preprint arXiv:1903.11279, 2019. [[Paper]](https://arxiv.org/abs/1903.11279#:~:text=In%20this%20paper%2C%20we%20introduce%20a%20graph%20convolution,further%20combined%20with%20text%20embeddings%20for%20entity%20extraction.)
 
 
@@ -103,7 +103,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multimodal_Event_Extraction
+## multi-modal_event_extraction
 1. Li M, Zareian A, Zeng Q, et al. **Cross-media structured common space for multimedia event extraction**[J]. ACL 2020. [[Paper]](https://aclanthology.org/2020.acl-main.230/)
 
 
@@ -125,7 +125,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multimodal_Representation_Learning
+## multi-modal_representation_learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, and Huan Gao. **Fine-grained Image Classification by Visual-Semantic Embedding**. IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 
 
@@ -151,7 +151,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multimodal_Entity_Linking
+## multi-modal_entity_linking
 1. Pengfei Luo, Tong Xu*, Shiwei Wu, Chen Zhu, Linli Xu, and Enhong Chen. **Multi-Grained Multimodal Interaction Network for Entity Linking**. KDD 2023. [[Paper]](https://arxiv.org/abs/2307.09721)
 
 
@@ -159,7 +159,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multimodal_KG_Construction
+## multi-modal_kG_construction
 1. Meng Wang, Guilin Qi, Haofen Wang, and Qiushuo Zheng. **Richpedia: A Comprehensive Multi-modal Knowledge Graph**. JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf)
 
 
@@ -207,7 +207,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Tutorials
+## tutorials
 1. Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web. [[ACL 2020]](./tutorials/Multi-modal_Information_Extraction_from_Text.pdf)
 
 

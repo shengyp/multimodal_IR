@@ -12,14 +12,13 @@ Table of Contents
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
   * [Multi-modal Dataset](#Multi-modal_Dataset)
-  * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
+  * [Multi-modal Relation Extraction](#Multi-modal_Relation_Extraction)
+  * [Multi-modal Event Extraction](#Multi-modal_Event_Extraction)  
   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
   * [Multi-modal Entity Linking](#Multi-modal_Entity_Linking)
   * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
   * [Multi-modal Knowledge Graphs for Recommender Systems](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
-  * [Multi-modal Relation Extraction](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
-  * [Multi-modal Event Extraction](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
   * [Tutorials](#Tutorials)
 
 
@@ -35,13 +34,14 @@ Table of Contents
 
 
 
+
 ## Multi-modal_Dataset
 1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
 
 
 
 
-## Multi-modal_Information_Extraction_from_Text
+## Multi-modal_Relation_Extraction
 1. Liu X, Gao F, Zhang Q, et al. **Graph convolution for multimodal information extraction from visually rich documents**[J]. arXiv preprint arXiv:1903.11279, 2019. [[Paper]](https://arxiv.org/abs/1903.11279#:~:text=In%20this%20paper%2C%20we%20introduce%20a%20graph%20convolution,further%20combined%20with%20text%20embeddings%20for%20entity%20extraction.)
 
 
@@ -96,6 +96,25 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 [2020年关系抽取相关论文](https://zhuanlan.zhihu.com/p/154492342?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632)
+
+
+
+
+## Multi-modal_Event_Extraction
+1. Li M, Zareian A, Zeng Q, et al. **Cross-media structured common space for multimedia event extraction**[J]. ACL 2020. [[Paper]](https://aclanthology.org/2020.acl-main.230/)
+
+
+3. Tong M, Wang S, Cao Y, et al. **Image enhanced event detection in news articles**[C]. AAAI 2020, 34(05): 9040-9047. [[Paper]](https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf)
+
+
+4. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf)
+
+
+5. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. AAAI 2021, 35(16): 14420-14427. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
+
+
+
+6. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
 
 
 
@@ -180,14 +199,6 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 2. Chuhan Wu, Fangzhao Wu, Tao Qi, Chao Zhang, Yongfeng Huang, and Tong Xu. **MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation**. SIGIR 2022. [[Paper]](https://arxiv.org/abs/2104.07407)
 
 
-
-
-## Multi-modal_Event_Extraction
-1. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429.
-2. Li M, Zareian A, Zeng Q, et al. **Cross-media structured common space for multimedia event extraction**[J]. arXiv preprint arXiv:2005.02472, 2020.
-3. Tong M, Wang S, Cao Y, et al. **Image enhanced event detection in news articles**[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(05): 9040-9047.
-4. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(15): 13916-13923.
-5. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(16): 14420-14427.
 
 ## Tutorials
 1. Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web. [[ACL 2020]](./tutorials/Multi-modal_Information_Extraction_from_Text.pdf)

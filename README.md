@@ -11,14 +11,14 @@ Table of Contents
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
-  * [Multi-modal Dataset](#Multi-modal_Dataset)
-  * [Multi-modal Relation Extraction](#Multi-modal_Relation_Extraction)
-  * [Multi-modal Event Extraction](#Multi-modal_Event_Extraction)  
-  * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
-  * [Multi-modal Entity Linking](#Multi-modal_Entity_Linking)
-  * [Multi-modal KG Construction](#Multi-modal_KG_Construction)
+  * [Multimodal Dataset](#Multimodal_Dataset)
+  * [Multimodal Relation Extraction](#Multimodal_Relation_Extraction)
+  * [Multimodal Event Extraction](#Multimodal_Event_Extraction)  
+  * [Multimodal Representation Learning](#Multimodal_Representation_Learning)
+  * [Multimodal Entity Linking](#Multimodal_Entity_Linking)
+  * [Multimodal KG Construction](#Multimodal_KG_Construction)
   * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
-  * [Multi-modal Knowledge Graphs for Recommender Systems](#Multi-modal_Knowledge_Graphs_for_Recommender_Systems)
+  * [Multi-modal Knowledge Graphs for Recommender Systems](#Multimodal_Knowledge_Graphs_for_Recommender_Systems)
   * [Tutorials](#Tutorials)
 
 
@@ -35,13 +35,13 @@ Table of Contents
 
 
 
-## Multi-modal_Dataset
+## Multimodal_Dataset
 1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
 
 
 
 
-## Multi-modal_Relation_Extraction
+## Multimodal_Relation_Extraction
 1. Liu X, Gao F, Zhang Q, et al. **Graph convolution for multimodal information extraction from visually rich documents**[J]. arXiv preprint arXiv:1903.11279, 2019. [[Paper]](https://arxiv.org/abs/1903.11279#:~:text=In%20this%20paper%2C%20we%20introduce%20a%20graph%20convolution,further%20combined%20with%20text%20embeddings%20for%20entity%20extraction.)
 
 
@@ -100,7 +100,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multi-modal_Event_Extraction
+## Multimodal_Event_Extraction
 1. Li M, Zareian A, Zeng Q, et al. **Cross-media structured common space for multimedia event extraction**[J]. ACL 2020. [[Paper]](https://aclanthology.org/2020.acl-main.230/)
 
 
@@ -118,7 +118,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multi-modal_Representation_Learning
+## Multimodal_Representation_Learning
 1. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, and Huan Gao. **Fine-grained Image Classification by Visual-Semantic Embedding**. IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0145.pdf)
 
 
@@ -144,7 +144,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multi-modal_Entity_Linking
+## Multimodal_Entity_Linking
 1. Pengfei Luo, Tong Xu*, Shiwei Wu, Chen Zhu, Linli Xu, and Enhong Chen. **Multi-Grained Multimodal Interaction Network for Entity Linking**. KDD 2023. [[Paper]](https://arxiv.org/abs/2307.09721)
 
 
@@ -152,7 +152,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multi-modal_KG_Construction
+## Multimodal_KG_Construction
 1. Meng Wang, Guilin Qi, Haofen Wang, and Qiushuo Zheng. **Richpedia: A Comprehensive Multi-modal Knowledge Graph**. JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-41407-8_9.pdf)
 
 
@@ -192,7 +192,7 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 
-## Multi-modal_Knowledge_Graphs_for_Recommender_Systems
+## Multimodal_Knowledge_Graphs_for_Recommender_Systems
 1. Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang, and Kai Zheng. **Multi-modal Knowledge Graphs for Recommender Systems**. CIKM 2020. [[Paper]](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
 
 

@@ -11,6 +11,7 @@ Table of Contents
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Review on Multi-modal Data Analytics](#Review_on_Multi-modal_Data_Analytics)
+  * [Multi-modal Dataset](#Multi-modal_Dataset)
   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text)
   * [Multi-modal Representation Learning](#Multi-modal_Representation_Learning)
   * [Multi-modal Entity Linking](#Multi-modal_Entity_Linking)
@@ -34,9 +35,14 @@ Table of Contents
 
 
 
+## Multi-modal_Dataset
+1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
+
+
+
 
 ## Multi-modal_Information_Extraction_from_Text
-1. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, and Marjorie Freedman. **GAIA: A Fine-grained Multimedia Knowledge Extraction System**. ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
+1. Liu X, Gao F, Zhang Q, et al. **Graph convolution for multimodal information extraction from visually rich documents**[J]. arXiv preprint arXiv:1903.11279, 2019. [[Paper]](https://arxiv.org/abs/1903.11279#:~:text=In%20this%20paper%2C%20we%20introduce%20a%20graph%20convolution,further%20combined%20with%20text%20embeddings%20for%20entity%20extraction.)
 
 
 2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, and Alan Smeaton. **Panel: Challenges for Multimedia/Multimodal Research in the Next Decade**. ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
@@ -45,10 +51,38 @@ Table of Contents
 3. Manling Li, Ying Lin, Ananya Subburathinam, et al. **GAIA at SM-KBP 2019 - A Multi-media Multi-lingual Knowledge Extraction and Hypothesis Generation System**. TACL 2019. [[Paper]](https://blender.cs.illinois.edu/paper/gaia_smkbp_2019.pdf)
 
 
-4. Tong Xu, Peilun Zhou, and Enhong Chen, Uncertainty in Multimodal Semantic Understanding. **Uncertainty in Multimodal Semantic Understanding**. In Communication of China Association of Artificial Intelligence (in Chinese) 2020. [[Paper]](http://staff.ustc.edu.cn/~tongxu/Papers/CCAAI20.pdf)
+4. Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, and Marjorie Freedman. **GAIA: A Fine-grained Multimedia Knowledge Extraction System**. ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-demos.11.pdf) (Best Demo Paper)
 
 
-5. Tong Xu*, Peilun Zhou*, Linkang Hu, Xiangnan He, Yao Hu, and Enhong Chen. **Socializing the Videos: A Multimodal Approach for Social Relation Recognition**, In ACM Transactions on Multimedia Computing Communications and Applications 2021.  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3416493)
+5. Tong Xu, Peilun Zhou, and Enhong Chen, Uncertainty in Multimodal Semantic Understanding. **Uncertainty in Multimodal Semantic Understanding**. In Communication of China Association of Artificial Intelligence (in Chinese) 2020. [[Paper]](http://staff.ustc.edu.cn/~tongxu/Papers/CCAAI20.pdf)
+
+
+6. Tong Xu*, Peilun Zhou*, Linkang Hu, Xiangnan He, Yao Hu, and Enhong Chen. **Socializing the Videos: A Multimodal Approach for Social Relation Recognition**, In ACM Transactions on Multimedia Computing Communications and Applications 2021.  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3416493)
+
+
+7. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
+
+
+8. Pingali S, Yadav S, Dutta P, et al. **Multimodal graph-based transformer framework for biomedical relation extraction**[J]. ACL finds 2021. [[Paper]](https://arxiv.org/abs/2107.00596)
+
+
+9. Zheng C, Feng J, Fu Z, et al. **Multimodal relation extraction with efficient graph alignment**[C]. ACMM. 2021: 5298-5306. [[Paper]](
+https://dl.acm.org/doi/10.1145/3474085.3476968)
+
+
+10. Chen X, Zhang N, Li L, et al. **Good visual guidance makes a better extractor: Hierarchical visual prefix for multimodal entity and relation extraction**[J]. NAACL 2022. [[Paper]](https://aclanthology.org/2022.findings-naacl.121/)
+
+
+11. Xu B, Huang S, Du M, et al. **Different data, different modalities! reinforced data splitting for effective multimodal information extraction from social media posts**[C]. COLING 2022: 1855-1864. [[Paper]](https://aclanthology.org/2022.coling-1.160/)
+
+
+12. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+
+
+13. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+
+
+14. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
 
 
 
@@ -145,17 +179,7 @@ Table of Contents
 
 2. Chuhan Wu, Fangzhao Wu, Tao Qi, Chao Zhang, Yongfeng Huang, and Tong Xu. **MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation**. SIGIR 2022. [[Paper]](https://arxiv.org/abs/2104.07407)
 
-## Multi-modal_Relation_Extraction
-1. Chen X, Zhang N, Li L, et al. **Good visual guidance makes a better extractor: Hierarchical visual prefix for multimodal entity and relation extraction**[J]. arXiv preprint arXiv:2205.03521, 2022.
-2. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. arXiv preprint arXiv:2305.16166, 2023.
-3. Liu X, Gao F, Zhang Q, et al. **Graph convolution for multimodal information extraction from visually rich documents**[J]. arXiv preprint arXiv:1903.11279, 2019.
-4. Pingali S, Yadav S, Dutta P, et al. **Multimodal graph-based transformer framework for biomedical relation extraction**[J]. arXiv preprint arXiv:2107.00596, 2021.
-5. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(15): 13916-13923.
-6. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. arXiv preprint arXiv:2305.11719, 2023.
-7. Xu B, Huang S, Du M, et al. **Different data, different modalities! reinforced data splitting for effective multimodal information extraction from social media posts**[C]. Proceedings of the 29th International Conference on Computational Linguistics. 2022: 1855-1864.
-8. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023: 6810-6824.
-9. Zheng C, Feng J, Fu Z, et al. **Multimodal relation extraction with efficient graph alignment**[C]. Proceedings of the 29th ACM International Conference on Multimedia. 2021: 5298-5306.
-10. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6.
+
 
 
 ## Multi-modal_Event_Extraction

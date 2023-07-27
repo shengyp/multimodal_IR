@@ -10,20 +10,20 @@ Table of Contents
 
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
-  * [Review on Multi-modal Data Analytics](#Review_on_multi-modal_data_analytics)
-  * [Multimodal Dataset](#multi-modal_dataset)
-  * [Multimodal Relation Extraction](#multi-modal_relation_extraction)
-  * [Multimodal Event Extraction](#multi-modal_event_extraction)  
-  * [Multimodal Representation Learning](#multi-modal_representation_learning)
-  * [Multimodal Entity Linking](#multi-modal_entity_linking)
-  * [Multimodal KG Construction](#multi-modal_kG_construction)
-  * [Joint Understanding for Text and Image](#Joint_Understanding_for_Text_and_Image)
+  * [Review on Multi-modal Data Analytics](#review_on_multi-modal_data_analytics)
+  * [Multi-modal Dataset](#multi-modal_dataset)
+  * [Multi-modal Relation Extraction](#multi-modal_relation_extraction)
+  * [Multi-modal Event Extraction](#multi-modal_event_extraction)  
+  * [Multi-modal Representation Learning](#multi-modal_representation_learning)
+  * [Multi-modal Entity Linking](#multi-modal_entity_linking)
+  * [Multi-modal KG Construction](#multi-modal_kG_construction)
+  * [Joint Understanding for Text and Image](#Joint_understanding_for_text_and_image)
   * [Multi-modal Knowledge Graphs for Recommender Systems](#multi-modal_knowledge_graphs_for_recommender_systems)
   * [Tutorials](#tutorials)
 
 
-<!-- ## Datasets_Shared_Tasks -->
-## Review_on_multi-modal_data_analytics
+
+## review_on_multi-modal_data_analytics
 1. Yang Wang. **Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion**. Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08159.pdf) 
 
 
@@ -34,7 +34,7 @@ Table of Contents
 
 
 
-
+<!-- ## Datasets_Shared_Tasks -->
 ## multi-modal_dataset
 1. Zheng C, Wu Z, Feng J, et al. **Mnre: A challenge multimodal dataset for neural relation extraction with visual evidence in social media posts**[C]. 2021 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2021: 1-6. [[Paper]](https://ieeexplore.ieee.org/document/9428274/) 
 

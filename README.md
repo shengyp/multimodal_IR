@@ -85,13 +85,16 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 12. Xu B, Huang S, Du M, et al. **Different data, different modalities! reinforced data splitting for effective multimodal information extraction from social media posts**[C]. COLING 2022: 1855-1864. [[Paper]](https://aclanthology.org/2022.coling-1.160/)
 
 
-13. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+13. Revanth Gangi Reddy†, Xilin Rui†, Manling Li, Xudong Lin, Haoyang Wen, Jaemin Cho, Lifu Huang, Mohit Bansal, Avi Sil, Shih-Fu Chang, Alexander Schwing, and Heng Ji. **MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding**[C]. AAAI 2022. [[Paper]](https://arxiv.org/abs/2112.10728) [[Data]](https://github.com/blender-nlp/MuMuQA)
 
 
-14. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+14. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
 
 
-15. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
+15. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+
+
+16. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
 
 
 
@@ -117,17 +120,22 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 3. Tong M, Wang S, Cao Y, et al. **Image enhanced event detection in news articles**[C]. AAAI 2020, 34(05): 9040-9047. [[Paper]](https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf)
 
 
-4. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf)
+4. Manling Li*, Alireza Zareian*, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare R. Voss, Dan Napierski, and Marjorie Freedman. **GAIA: A Fine-grained Multimedia Knowledge Extraction System**[C]. ACL 2020. [[Demo]](https://blender.cs.illinois.edu/paper/aidaacl2020demo.pdf) [[http://blender.cs.illinois.edu/software/gaia-ie/]] [[Video]](http://blender.cs.illinois.edu/software/gaia-ie/gaia.mp4) 
 
 
-5. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. AAAI 2021, 35(16): 14420-14427. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
+5. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf)
 
 
+6. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. AAAI 2021, 35(16): 14420-14427. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
 
-6. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
+
+7. Brian Chen, Xudong Lin, Christopher Thomas, Manling Li, Shoya Yoshida, Lovish Chum, Heng Ji, and Shih-Fu Chang. **Joint Multimedia Event Extraction from Video and Article**[C]. EMNLP 2021 Findings. 
 
 
-7. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
+8. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
+
+
+9. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
 
 
 

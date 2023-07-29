@@ -16,6 +16,7 @@ Table of Contents
   * [Multi-modal Event Extraction](#multi-modal_event_extraction)  
   * [Multi-modal Representation Learning](#multi-modal_representation_learning)
   * [Multi-modal Entity Linking](#multi-modal_entity_linking)
+  * [Multi-modal Grounding](#multi-modal_grounding)
   * [Multi-modal KG Construction](#multi-modal_kG_construction)
   * [Joint Understanding for Text and Image](#Joint_understanding_for_text_and_image)
   * [Multi-modal Knowledge Graphs for Recommender Systems](#multi-modal_knowledge_graphs_for_recommender_systems)
@@ -60,32 +61,38 @@ Table of Contents
 5. Tong Xu, Peilun Zhou, and Enhong Chen, Uncertainty in Multimodal Semantic Understanding. **Uncertainty in Multimodal Semantic Understanding**. In Communication of China Association of Artificial Intelligence (in Chinese) 2020. [[Paper]](http://staff.ustc.edu.cn/~tongxu/Papers/CCAAI20.pdf)
 
 
-6. Tong Xu*, Peilun Zhou*, Linkang Hu, Xiangnan He, Yao Hu, and Enhong Chen. **Socializing the Videos: A Multimodal Approach for Social Relation Recognition**, In ACM Transactions on Multimedia Computing Communications and Applications 2021.  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3416493)
+
+6. Carl Yang, Jieyu Zhang, Haonan Wang, Sha Li, Yu Shi, Myunghwan Kim, Matt Walker, and Jiawei Han. **Relation Learning on Social Networks with Multi-Modal Graph Edge Variational Autoencoders**[C]. WSDM 2020. [[Paper]](https://arxiv.org/abs/1911.05465) [[Code]](https://github.com/yangji9181/RELEARN)
 
 
-7. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
+
+7. Tong Xu*, Peilun Zhou*, Linkang Hu, Xiangnan He, Yao Hu, and Enhong Chen. **Socializing the Videos: A Multimodal Approach for Social Relation Recognition**, In ACM Transactions on Multimedia Computing Communications and Applications 2021.  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3416493)
 
 
-8. Pingali S, Yadav S, Dutta P, et al. **Multimodal graph-based transformer framework for biomedical relation extraction**[J]. ACL finds 2021. [[Paper]](https://arxiv.org/abs/2107.00596)
+8. Wan H, Zhang M, Du J, et al. **FL-MSRE: A few-shot learning based approach to multimodal social relation extraction**[C]. AAAI 2021, 35(15): 13916-13923. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
 
 
-9. Zheng C, Feng J, Fu Z, et al. **Multimodal relation extraction with efficient graph alignment**[C]. ACMM. 2021: 5298-5306. [[Paper]](
+9. Pingali S, Yadav S, Dutta P, et al. **Multimodal graph-based transformer framework for biomedical relation extraction**[J]. ACL finds 2021. [[Paper]](https://arxiv.org/abs/2107.00596)
+
+
+10. Zheng C, Feng J, Fu Z, et al. **Multimodal relation extraction with efficient graph alignment**[C]. ACMM. 2021: 5298-5306. [[Paper]](
 https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
-10. Chen X, Zhang N, Li L, et al. **Good visual guidance makes a better extractor: Hierarchical visual prefix for multimodal entity and relation extraction**[J]. NAACL 2022. [[Paper]](https://aclanthology.org/2022.findings-naacl.121/)
+11. Chen X, Zhang N, Li L, et al. **Good visual guidance makes a better extractor: Hierarchical visual prefix for multimodal entity and relation extraction**[J]. NAACL 2022. [[Paper]](https://aclanthology.org/2022.findings-naacl.121/)
 
 
-11. Xu B, Huang S, Du M, et al. **Different data, different modalities! reinforced data splitting for effective multimodal information extraction from social media posts**[C]. COLING 2022: 1855-1864. [[Paper]](https://aclanthology.org/2022.coling-1.160/)
+12. Xu B, Huang S, Du M, et al. **Different data, different modalities! reinforced data splitting for effective multimodal information extraction from social media posts**[C]. COLING 2022: 1855-1864. [[Paper]](https://aclanthology.org/2022.coling-1.160/)
 
 
-12. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+13. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
 
 
-13. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+14. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
 
 
-14. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
+15. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
+
 
 
 
@@ -116,28 +123,13 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 5. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. AAAI 2021, 35(16): 14420-14427. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
 
 
+
 6. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
 
 
 7. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
 
 
-8. Yatskar M, Zettlemoyer L, Farhadi A. **Situation recognition: Visual semantic role labeling for image understanding**[C]. CVPR. 2016: 5534-5542. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780966)
-
-
-9. Pratt S, Yatskar M, Weihs L, et al. **Grounded situation recognition**[C]. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490307.pdf)
-
-
-10. Sadhu A, Gupta T, Yatskar M, et al. **Visual semantic role labeling for video understanding**[C]. CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sadhu_Visual_Semantic_Role_Labeling_for_Video_Understanding_CVPR_2021_paper.pdf)
-
-
-11. Yang G, Li M, Zhang J, et al. **Video event extraction via tracking visual states of arguments**[C]. AAAI 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25418/25190)
-
-
-12. Zareian A, Karaman S, Chang S F. **Weakly supervised visual semantic parsing**[C]. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf)
-
-
-13. Kim B, Lee J, Kang J, et al. **Hotr: End-to-end human-object interaction detection with transformers**[C]. CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_HOTR_End-to-End_Human-Object_Interaction_Detection_With_Transformers_CVPR_2021_paper.pdf)
 
 
 ## multi-modal_representation_learning
@@ -171,6 +163,11 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 [多模态实体链接（Multimodal Entity Linking）论文整理（更新至2023.6.27）](https://zhuanlan.zhihu.com/p/466395379)
+
+
+
+## multi-modal_grounding
+1. Yu Zhou, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, and Heng Ji. **Non-Sequential Graph Script Induction via Multimedia Grounding**. ACL 2023. [[Paper]](https://arxiv.org/abs/2305.17542) [[Code]](https://github.com/bryanzhou008/Multimodal-Graph-Script-Learning/)
 
 
 

@@ -116,13 +116,28 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 5. Zhang L, Zhou D, He Y, et al. **MERL: Multimodal event representation learning in heterogeneous embedding spaces**[C]. AAAI 2021, 35(16): 14420-14427. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17639)
 
 
-
 6. Li M, Xu R, Wang S, et al. **Clip-event: Connecting text and images with event structures**[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16420-16429. [[Paper]](https://arxiv.org/pdf/2201.05078.pdf)
 
 
 7. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
 
 
+8. Yatskar M, Zettlemoyer L, Farhadi A. **Situation recognition: Visual semantic role labeling for image understanding**[C]. CVPR. 2016: 5534-5542. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780966)
+
+
+9. Pratt S, Yatskar M, Weihs L, et al. **Grounded situation recognition**[C]. ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490307.pdf)
+
+
+10. Sadhu A, Gupta T, Yatskar M, et al. **Visual semantic role labeling for video understanding**[C]. CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sadhu_Visual_Semantic_Role_Labeling_for_Video_Understanding_CVPR_2021_paper.pdf)
+
+
+11. Yang G, Li M, Zhang J, et al. **Video event extraction via tracking visual states of arguments**[C]. AAAI 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25418/25190)
+
+
+12. Zareian A, Karaman S, Chang S F. **Weakly supervised visual semantic parsing**[C]. CVPR 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf)
+
+
+13. Kim B, Lee J, Kang J, et al. **Hotr: End-to-end human-object interaction detection with transformers**[C]. CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_HOTR_End-to-End_Human-Object_Interaction_Detection_With_Transformers_CVPR_2021_paper.pdf)
 
 
 ## multi-modal_representation_learning

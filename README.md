@@ -15,6 +15,7 @@ Table of Contents
   * [Multi-modal Relation Extraction](#multi-modal_relation_extraction)
   * [Multi-modal Event Extraction](#multi-modal_event_extraction)  
   * [Multi-modal Representation Learning](#multi-modal_representation_learning)
+  * [Multi-modal Entity Alignment](#multi-modal_entity_alignment)
   * [Multi-modal Entity Linking](#multi-modal_entity_linking)
   * [Multi-modal Grounding](#multi-modal_grounding)
   * [Multi-modal KG Construction](#multi-modal_kG_construction)
@@ -163,6 +164,11 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 [知识图谱之知识表示篇](https://zhuanlan.zhihu.com/p/148785892)
 
 [KDD2020 Tutorial: Multi-modal Network Representation Learning](https://chuxuzhang.github.io/KDD20_Tutorial.html)
+
+
+
+## multi-modal_entity_alignment
+1. Qian Li, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, and Jianxin Li. **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**. WWW 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583328) [[Report]](https://mp.weixin.qq.com/s/3NDJaT807tOcKH4vCDDCYQ)
 
 
 

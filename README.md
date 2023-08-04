@@ -97,13 +97,17 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 13. Revanth Gangi Reddy†, Xilin Rui†, Manling Li, Xudong Lin, Haoyang Wen, Jaemin Cho, Lifu Huang, Mohit Bansal, Avi Sil, Shih-Fu Chang, Alexander Schwing, and Heng Ji. **MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding**[C]. AAAI 2022. [[Paper]](https://arxiv.org/abs/2112.10728) [[Data]](https://github.com/blender-nlp/MuMuQA)
 
 
-14. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
+14. Wu S, Fei H, Cao Y, et al. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[C]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
 
 
 15. Zheng C, Feng J, Cai Y, et al. **Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View**[C]. ACL (Volume 1: Long Papers). 2023: 6810-6824. [[Paper]](https://aclanthology.org/2023.acl-long.823/)
 
 
-16. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
+16. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[C]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
+
+
+17. Shengqiong Wu, Hao Fei, Yixin Cao, Lidong Bing, and Tat-Seng Chua. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[C]. ACL 2023. [[Paper]](https://arxiv.org/pdf/2305.11719.pdf) [[Report]](https://mp.weixin.qq.com/s/zf2bZSJjV3s2hQe0l4vJbA)
+
 
 
 [Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)

@@ -12,6 +12,7 @@ Table of Contents
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Review on Multi-modal Data Analytics](#review_on_multi-modal_data_analytics)
   * [Multi-modal Dataset](#multi-modal_dataset)
+  * [Multi-modal Named Entity Recognition](#multi-modal_named_entity_recognition)
   * [Multi-modal Relation Extraction](#multi-modal_relation_extraction)
   * [Multi-modal Event Extraction](#multi-modal_event_extraction)  
   * [Multi-modal Representation Learning](#multi-modal_representation_learning)
@@ -43,6 +44,13 @@ Table of Contents
 
 2. Guozheng Li, Peng Wang, Jiafeng Xie, et al. **FEED：A Chinese Financial Event Extraction Dataset Constructed by Distant Supervisions**[C]. IJCKG 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3502223.3502229) 
 
+
+
+
+## multi-modal_named_entity_recognition
+
+
+[【必知必懂论文】之多模态命名实体识别](https://mp.weixin.qq.com/s/6RXhbsVXYscjIDX1gP20iw)
 
 
 
@@ -96,8 +104,6 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 
 
 16. Hu X, Guo Z, Teng Z, et al. **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**[J]. ACL 2023. [[Paper]](https://aclanthology.org/2023.acl-short.27/)
-
-
 
 
 [Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)

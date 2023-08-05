@@ -109,6 +109,9 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 17. Shengqiong Wu, Hao Fei, Yixin Cao, Lidong Bing, and Tat-Seng Chua. **Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**[C]. ACL 2023. [[Paper]](https://arxiv.org/pdf/2305.11719.pdf) [[Report]](https://mp.weixin.qq.com/s/zf2bZSJjV3s2hQe0l4vJbA)
 
 
+18. Xiao Wang, Weikang Zhou, Can Zu, Han Xia, Tianze Chen, Yuansen Zhang, Rui Zheng, Junjie Ye, Qi Zhang, Tao Gui, Jihua Kang, Jingsheng Yang, Siyuan Li, and Chunsai Du. **InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction**[C]. Arxiv 2023. [[Paper]](https://arxiv.org/abs/2304.08085) [[Report]](https://mp.weixin.qq.com/s/0_0-YnhEyvn4o2hbiiI6PA)
+
+
 
 [Relation Extraction in 2018/2019](https://github.com/WindChimeRan/NREPapers2019)
 

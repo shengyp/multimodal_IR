@@ -152,6 +152,8 @@ https://dl.acm.org/doi/10.1145/3474085.3476968)
 9. Jian Liu, Yufeng Chen, and Jinan Xu. **Multimedia Event Extraction From News With a Unified Contrastive Learning Framework**[C]. ACMM. [[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548132f)
 
 
+[论文导读 | ACL-2023 事件检测](https://mp.weixin.qq.com/s/YF8R6SOjkRK9A0_7VLZp-A)
+
 
 
 ## multi-modal_representation_learning
